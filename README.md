@@ -19,7 +19,7 @@ I am currently seeking **graduate roles** in **Cybersecurity**, starting from **
 
 ---
 
-### ⚡ About Me
+### ⚡ A Little More About Me
 When I’m not coding or exploring the latest in cybersecurity, you can find me playing Dungeons & Dragons in the year long campaign I've developed with my friends, writing letters to my pen-pals in America & Japan, or experimenting in the kitchen.
 
 <!---
